@@ -8,8 +8,8 @@ I'm currently digging deeper into JavaScript and React, and am aiming to be a fr
 - SCSS/SASS
 - JavaScript
 
-## Hobbies
-- 🍳 Cooking
-- 🎸 Guitar
-- 🏃‍♂️ Running
-- 🏋️‍♂️ Weightlifting
+## 🎨 Hobbies
+🍳 Cooking
+🎸 Guitar
+🏃‍♂️ Running
+🏋️‍♂️ Weightlifting
