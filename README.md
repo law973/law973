@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there 👋, I'm Levi!
 
-<!--
-**law973/law973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently digging deeper into JavaScript and React, and am aiming to be a front-end developer.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- SCSS/SASS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies
+
+- Weightlifting 🏋️‍♂️
+- Running 🏃‍♂️
