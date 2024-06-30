@@ -9,7 +9,7 @@ I'm currently digging deeper into JavaScript and React, and am aiming to be a fr
 - JavaScript
 
 ## 🎨 Hobbies
-🍳 Cooking
-🎸 Guitar
-🏃‍♂️ Running
-🏋️‍♂️ Weightlifting
+- 🍳 Cooking
+- 🎸 Guitar
+- 🏃‍♂️ Running
+- 🏋️‍♂️ Weightlifting
