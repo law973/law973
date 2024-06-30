@@ -8,7 +8,7 @@ I'm currently digging deeper into JavaScript and React, and am aiming to be a fr
 - SCSS/SASS
 - JavaScript
 
-### Hobbies
+## Hobbies
 
 - Weightlifting 🏋️‍♂️
 - Running 🏃‍♂️
