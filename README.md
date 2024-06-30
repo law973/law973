@@ -12,7 +12,13 @@ I'm currently digging deeper into JavaScript and React, and am aiming to be a fr
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5"><img src="https://raw.githubusercontent.com/law973/law973/98c6fad6110dab5657fec66b17d3443b28c8808b/HTML5_Badge.svg" width="50" height="50" alt="HTML5 Badge" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"><img src="https://raw.githubusercontent.com/law973/law973/main/CSS3_Badge.svg" width="50" height="50" alt="CSS3 Badge" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"><img src="https://raw.githubusercontent.com/law973/law973/main/Sass_Logo.svg" width="50" height="50" alt="Sass Logo" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/main/Sass_Logo_White.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/main/Sass_Logo.svg">
+    <img src="https://raw.githubusercontent.com/law973/law973/main/Sass_Logo.svg" width="50" height="50" alt="Sass Logo" />
+  </picture>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/law973/law973/main/JavaScript_Logo.svg" width="50" height="50" alt="JavaScript Logo" /></a>
 
 ## 🎨 Hobbies
