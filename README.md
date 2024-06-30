@@ -2,13 +2,14 @@
 
 I'm currently digging deeper into JavaScript and React, and am aiming to be a front-end developer.
 
-## Skills
+## 👨‍💻 Skills
 - HTML
 - CSS
 - SCSS/SASS
 - JavaScript
 
 ## Hobbies
-
-- Weightlifting 🏋️‍♂️
-- Running 🏃‍♂️
+- 🍳 Cooking
+- 🎸 Guitar
+- 🏃‍♂️ Running
+- 🏋️‍♂️ Weightlifting
