@@ -3,6 +3,8 @@
 I'm currently digging deeper into JavaScript and React, and am aiming to be a front-end developer.
 
 ## 👨‍💻 Skills
+Current skills:
+<br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/main/Git_Logo_White.svg">
@@ -19,6 +21,9 @@ I'm currently digging deeper into JavaScript and React, and am aiming to be a fr
     <img src="https://raw.githubusercontent.com/law973/law973/main/Sass_Logo.svg" width="50" height="50" alt="Sass Logo" />
   </picture>
 </a>
+<br>
+Working on:
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/law973/law973/main/JavaScript_Logo.svg" width="50" height="50" alt="JavaScript Logo" /></a>
 
 ## 🎨 Hobbies
