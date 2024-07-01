@@ -25,6 +25,13 @@ Current skills:
 Working on:
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/law973/law973/main/JavaScript_Logo.svg" width="50" height="50" alt="JavaScript Logo" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Dark_Mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Light_Mode.svg">
+    <img src="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Light_Mode.svg" width="50" height="50" alt="React Logo">
+  </picture>
+</a>
 
 ## 🎨 Hobbies
 - 🍳 Cooking
