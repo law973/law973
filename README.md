@@ -32,7 +32,13 @@ Working on:
     <img src="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Light_Mode.svg" width="75" height="75" alt="React Logo">
   </picture>
 </a>
-<a href="https://styled-components.com" target="_blank" rel="noreferrer" title="styled-components"><img src="https://raw.githubusercontent.com/law973/law973/1b7314e4f3175579460bc596859743faa2f24f17/Styled-Components_Logo.svg" width="75" height="75" alt="styled-components Logo" /></a>
+<a href="https://styled-components.com" target="_blank" rel="noreferrer" title="styled-components">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/059f3782a631d60e11df3f315829f4b45dd92dd3/Styled-Components_Logo_Dark_Mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/1b7314e4f3175579460bc596859743faa2f24f17/Styled-Components_Logo.svg">
+    <img src="https://raw.githubusercontent.com/law973/law973/1b7314e4f3175579460bc596859743faa2f24f17/Styled-Components_Logo.svg" width="75" height="75" alt="Styled-Components Logo">
+  </picture>
+</a>
 <br><br>
 Going to learn about:
 <br>
