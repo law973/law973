@@ -44,7 +44,7 @@ Current skills:
   </picture>
 </a>
 <br><br>
-Going to learn about:
+Working on:
 <br>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript">
   <picture>
