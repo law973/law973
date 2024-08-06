@@ -29,9 +29,6 @@ Current skills:
     <img src="https://raw.githubusercontent.com/law973/law973/1b7314e4f3175579460bc596859743faa2f24f17/Styled-Components_Logo.svg" width="75" height="75" alt="Styled-Components Logo">
   </picture>
 </a>
-<br><br>
-Working on:
-<br>
 <a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Dark_Mode.svg">
