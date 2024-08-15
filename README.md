@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Levi!
 
-I'm currently digging deeper into JavaScript and React, and am aiming to be a front-end developer.
+I'm currently sharpening my skills and am aiming to be a front-end developer (and then full-stack, but one thing at a time).
 
 ## 👨‍💻 Skills
 Current skills:
