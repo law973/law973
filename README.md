@@ -36,13 +36,6 @@ Current skills:
     <img src="https://raw.githubusercontent.com/law973/law973/main/React_Logo_Light_Mode.svg" width="75" height="75" alt="React Logo">
   </picture>
 </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Dark_Mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Light_Mode.svg">
-    <img src="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Light_Mode.svg" width="75" height="75" alt="Redux Logo">
-  </picture>
-</a>
 <br><br>
 Working on:
 <br>
@@ -51,6 +44,13 @@ Working on:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/main/TypeScript_Logo_Dark_Mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/main/TypeScript_Logo_Light_Mode.svg">
     <img src="https://raw.githubusercontent.com/law973/law973/main/TypeScript_Logo_Light_Mode.svg" width="75" height="75" alt="TypeScript Logo">
+  </picture>
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Dark_Mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Light_Mode.svg">
+    <img src="https://raw.githubusercontent.com/law973/law973/7e190bea4fe48b10f08f4932c9c83bfc5697173a/Redux_Logo_Light_Mode.svg" width="75" height="75" alt="Redux Logo">
   </picture>
 </a>
 
