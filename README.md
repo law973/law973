@@ -2,7 +2,7 @@
 
 I'm currently sharpening my skills and am aiming to be a front-end developer (and then full-stack, but one thing at a time).
 
-Check out my portfolio <a href="https://luxury-flan-09fd6a.netlify.app/" target="_blank" rel="noreferrer" title="Levi's Portfolio">here</a>!
+Check out my portfolio <a href="https://leviwright.netlify.app/" target="_blank" rel="noreferrer" title="Levi's Portfolio">here</a>!
 
 ## 👨‍💻 Skills
 Current skills:
